@@ -10,5 +10,6 @@ From experience it may be necessary to restart the download to obtain a full dat
 
 The client is implemented with Apache Camel and Spring Boot.
 It uses the AWS S3 Rest API as this seems to produce more stable results.
+The repository contains example import configurations within the files `t32.txt`, `t33.txt`, `u32.txt` and `u33.txt`.
 
 Please mind the [terms and conditions](https://scihub.copernicus.eu/twiki/do/view/SciHubWebPortal/TermsConditions) of the Sentinel data.
